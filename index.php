@@ -13,7 +13,7 @@ require "config/connect.php";
 	</head>
 <!---->
 	<body>
-
+		<p>hai</P>
 	</body>
 <!---->
 </html>
